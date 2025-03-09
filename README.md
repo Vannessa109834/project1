@@ -1,1 +1,2 @@
-# project1
+# PDF Calculations
+ Creates a posterior distribution based on the uniform distribution (without prior), mean, std., or beta distribution (with prior) Involves calculating likelihoods and normalizing the posterior.
